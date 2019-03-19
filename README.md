@@ -30,4 +30,4 @@ pm2 start ./public/server.js
 
 ## 项目效果预览
 
-[aoaotheone.cn:8000](http://aoaotheone.cn:8000)
+[aoaotheone.cn/blog](https://aoaotheone.cn/blog)
